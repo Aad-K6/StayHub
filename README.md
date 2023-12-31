@@ -1,3 +1,13 @@
+
+
+![stayhub1](https://github.com/Aad-K6/StayHub-Vacation-Rental-Platform/assets/121332638/9e46caad-235f-41e7-851e-d59bbbc8c013)
+![stayhub 5](https://github.com/Aad-K6/StayHub-Vacation-Rental-Platform/assets/121332638/76315e00-9722-46a3-9859-6fe29e744043)
+![stayhub 6](https://github.com/Aad-K6/StayHub-Vacation-Rental-Platform/assets/121332638/e2d056bb-99f4-426f-8c2e-d3bba5e0106c)
+![stayhub2](https://github.com/Aad-K6/StayHub-Vacation-Rental-Platform/assets/121332638/9337cbb7-9c6c-4c9f-ac1d-4ddebc18f5e1)
+![stayhub3](https://github.com/Aad-K6/StayHub-Vacation-Rental-Platform/assets/121332638/6132df09-6a40-45d5-8d02-9d58e9934044)
+![stayhub4](https://github.com/Aad-K6/StayHub-Vacation-Rental-Platform/assets/121332638/1f2b9c1f-b03a-4a9c-a380-292d5e712348)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
